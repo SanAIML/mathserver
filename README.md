@@ -83,5 +83,9 @@ urlpatterns = [
 # SERVER SIDE PROCESSING:
 ![Screenshot 2024-12-06 121519](https://github.com/user-attachments/assets/aad60fc5-c82a-4e75-834a-d06ae8bf05e0)
 
+
+![ssp ph](https://github.com/user-attachments/assets/238261d9-a4cd-40ff-8226-b83194cb754d)
+
+
 # RESULT:
 The program for performing server side processing is completed successfully.
